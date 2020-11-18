@@ -83,6 +83,11 @@ float: left;
 .projects-img{
   width: 20rem;
 }
+.contact-me{
+width: 40%;
+  padding-bottom: 50px;
+  margin: auto;
+}
 .Star-Travel{
   color: #706897;
   margin: 0;
