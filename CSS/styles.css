@@ -53,12 +53,14 @@ a:hover{
   position: absolute;
 top:50px;
 right: 300px;
+z-index: -1;
 }
 
 .bottom-cloud{
   position: absolute;
   left: 300px;
   bottom: 500px;
+  z-index: -1;
 }
 .profile-img{
   width: 20rem;
