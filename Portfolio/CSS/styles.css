@@ -1,0 +1,77 @@
+
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.container-fluid{
+  padding: 5% 10%;
+}
+
+.colored-section{
+    color: #fff;
+    background-color: #726a95;
+}
+.white-section{
+background-color: #fff;
+}
+/* SECTION "TITLE" */
+
+
+.introduction{
+  font-family: 'Dancing Script', cursive;
+  font-weight: 900;
+  font-size: 5rem;
+}
+
+
+
+/* SECTION "ABOUT" */
+
+.img{
+  width: 20rem;
+}
+
+.intro-text{
+  margin-top: 5%;
+  text-align: left;
+}
+
+.education-link{
+color: black;
+text-decoration: underline;
+}
+
+/* SUB-SECTION "SKILLS" */
+.skills.row{
+  padding: 5%;
+  text-align: left;
+}
+
+.leadership.img{
+margin-left: 30%;
+width: 25rem;
+}
+
+.work-link{
+  color: #fff;
+  text-decoration: underline;
+}
+/* SECTION "PROJECTS" */
+.card{
+  width: 25rem;
+  margin: 5%;
+
+}
+
+.social-icon{
+  padding: 1%;
+  padding-bottom: 3%;
+
+}
+
+a{
+  color: #fff;
+}
